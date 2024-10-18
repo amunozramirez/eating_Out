@@ -1,6 +1,6 @@
 ---
 title: "Eating Out"
-author: "your name here"
+author: "alexandra munoz"
 output: 
   html_document:
     number_sections: true
